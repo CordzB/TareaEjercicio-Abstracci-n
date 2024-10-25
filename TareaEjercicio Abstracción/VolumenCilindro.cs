@@ -22,7 +22,7 @@ namespace TareaEjercicio_Abstracción
 
         public override void Imprimir()
         {
-            Console.WriteLine($"Cilindro con radio {radio} y altura {altura}");
+           
         }
     }
 }

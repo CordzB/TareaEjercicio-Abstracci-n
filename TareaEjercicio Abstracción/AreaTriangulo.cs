@@ -17,12 +17,12 @@ namespace TareaEjercicio_Abstracción
         {
             // Área = (base * altura) / 2
             double area = (baseTriangulo * alturaTriangulo) / 2;
-            Console.WriteLine($"El área del triángulo es: {area}");
+            Console.WriteLine($"El área del triángulo es: {area}m");
         }
 
         public override void Imprimir()
         {
-            Console.WriteLine($"Triángulo con base {baseTriangulo} y altura {alturaTriangulo}");
+           
         }
     }
 }

@@ -20,7 +20,7 @@ namespace TareaEjercicio_Abstracción
 
         public override void Imprimir()
         {
-            Console.WriteLine($"Conversión de {metros} metros a kilómetros");
+            
         }
     }
 }
